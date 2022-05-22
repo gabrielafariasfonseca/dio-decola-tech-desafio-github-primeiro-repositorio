@@ -1,0 +1,15 @@
+- Alguns Comandos do Git:
+git confing- definir o seu nome de usuário e endereço de email
+git help- ajuda
+git init- repositório git
+git clone- clonar um repositório existente
+git add- gravar alterações
+git status- utilizada para determinar quais arquivos estão em quais estados
+git diff- verificar mudanças
+git commit- armazenao conteúdo atual do índice em um novo commit
+git reset- para desfazer alguma coisa
+git rm- para removar arquivos
+git pull- incorpora as alterações de um repositório remoto no branch atual
+gitt push- é o comando em que você transfere commits a partir do seu repositório local para um rapositório remoto
+
+Fonte: https://comandosgit.github.io/
